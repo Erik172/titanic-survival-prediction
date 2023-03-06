@@ -56,6 +56,7 @@ The model achieved an accuracy of 69% on the test set, with a ROC AUC score of 0
 
 The classification report is as follows:
 
+```
               precision    recall  f1-score   support
 
            0       0.70      0.84      0.76       154
@@ -64,6 +65,7 @@ The classification report is as follows:
     accuracy                           0.69       262
    macro avg       0.69      0.66      0.66       262
 weighted avg       0.69      0.69      0.68       262
+```
 
 The confusion matrix and ROC curve are included in the results directory. The ROC curve is shown below:
 
