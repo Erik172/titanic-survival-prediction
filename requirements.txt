@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+seaborn
+session_info 
+sklearn
