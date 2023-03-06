@@ -67,7 +67,7 @@ weighted avg       0.69      0.69      0.68       262
 
 The confusion matrix and ROC curve are included in the results directory. The ROC curve is shown below:
 
-![ROC Curve](results/roc_curve.png)
+![ROC Curve](results/ROC_curve.png)
 
 ## Conclusion
 
